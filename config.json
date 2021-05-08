@@ -1,0 +1,10 @@
+{
+    "prefix": "!!",
+    "autorole": "0",
+    "token": "DISCORD_TOKEN",
+    "apikey": "YOUTUBE_API_KEY",
+    "trusted": [
+      "283312969931292672"
+      ]
+  }
+  

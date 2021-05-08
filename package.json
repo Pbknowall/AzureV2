@@ -1,0 +1,37 @@
+{
+  "name": "azure",
+  "version": "2.1.0",
+  "description": "A bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "!!help"
+  },
+  "keywords": [
+    "Azure"
+  ],
+  "author": "Pbknowall",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "covid19-api": "^1.2.1",
+    "discord.js": "^12.5.1",
+    "ffmpeg": "0.0.4",
+    "figlet": "^1.5.0",
+    "fs": "0.0.1-security",
+    "genius-lyrics": "^3.0.0",
+    "imageapi.js": "^1.2.4",
+    "jimp": "^0.12.1",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.1",
+    "opusscript": "0.0.7",
+    "quick.db": "^7.1.3",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "superagent": "^5.3.1",
+    "translate": "^1.1.2",
+    "urban": "^0.3.2",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^4.1.5"
+  }
+}
